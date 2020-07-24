@@ -1,7 +1,7 @@
 ### Hold on, buddy ✨
 
 <p align="center">
-  <img src="./1.jpg">
+< img src="https://github.com/Will0319/Will0319/blob/master/1.jpg">
 </p>
 
 <!--
