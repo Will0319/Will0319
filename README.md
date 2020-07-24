@@ -1,1 +1,1 @@
-# 别太迟又十年
+# Hold on, buddy
