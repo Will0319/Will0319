@@ -1,8 +1,5 @@
 ### Hold on, buddy ✨
 
-
-### 风平浪静的大海开始泛起波澜 🌊🌊
-
 <p align="center">
   <img src="https://github.com/Will0319/Will0319/1.jpg">
 </p>
