@@ -1,4 +1,4 @@
-### Hold on, buddy ✨
+### Hold on, buddy :muscle:
 
 <p align="center">
   <img src="https://github.com/Will0319/Will0319/blob/master/1.jpg" />
