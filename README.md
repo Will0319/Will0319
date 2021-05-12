@@ -1,9 +1,5 @@
 ### Hold on, buddy :muscle:
 
-<p align="center">
-  <img src="https://github.com/Will0319/Will0319/blob/master/1.jpg" />
-</p>
-
 <!--
 **Will0319/Will0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
